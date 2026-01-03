@@ -1,0 +1,12 @@
+/* navstyle */
+nav{
+    display: flex;
+}
+.heading{
+    font-weight: 800px;
+    font-size: x-large;
+}
+.text{
+    color: 
+rgba(253, 110, 10, 1);
+}
