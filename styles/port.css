@@ -1,6 +1,7 @@
 /* navstyle */
 nav{
     display: flex;
+    justify-content: space-between;
 }
 .heading{
     font-weight: 800px;
@@ -9,4 +10,26 @@ nav{
 .text{
     color: 
 rgba(253, 110, 10, 1);
+}
+nav ul li{
+    list-style: none;
+    
+}
+nav li a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: #474747;
+    font-size: large ;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    
+}
+#btn{
+    border-radius: 5px;
+    height: 25px;
+    width: 70px;
+    background-color: rgba(253, 110, 10, 1);
+    color:rgba(255, 255, 255, 1) ;
 }
