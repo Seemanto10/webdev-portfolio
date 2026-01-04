@@ -91,3 +91,26 @@ margin-left: 85px;
     background-repeat: no-repeat;
     background-position: bottom , right;
 }
+.about{
+    border-radius: 10px;
+background: rgba(255, 248, 243, 1);
+}
+main{
+    max-width: 1240;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+}
+.about-work{
+    padding: 130px 150px;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.item p{
+    margin: 15px;
+}
