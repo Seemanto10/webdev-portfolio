@@ -6,6 +6,7 @@ nav{
 .heading{
     font-weight: 800px;
     font-size: x-large;
+    margin-left: 85px;
 }
 .text{
     color: 
@@ -32,4 +33,61 @@ nav ul{
     width: 70px;
     background-color: rgba(253, 110, 10, 1);
     color:rgba(255, 255, 255, 1) ;
+}
+.banner{
+    display: flex;
+justify-content: center;
+/* background-image: url(../images/header_bg.png); */
+/* background-repeat: no-repeat; */
+}
+.header{
+    background-image: url(../images/developer.png);
+    background-repeat: no-repeat;
+}
+h4{
+    color: rgba(71, 71, 71, 1);
+
+font-family: Open Sans;
+font-style: SemiBold;
+font-size: 25px;
+font-weight: 600;
+line-height: 41px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 75px;
+}
+h1{
+    color: rgba(24, 24, 24, 1);
+
+font-family: Open Sans;
+font-style: Bold;
+font-size: 65px;
+font-weight: 700;
+line-height: 86px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 85px;
+}
+p{
+    color: rgba(117, 117, 117, 1);
+
+font-family: Open Sans;
+font-style: Regular;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 85px;
+}
+.but{
+    background-color:  rgba(253, 110, 10, 1);
+    margin-right: 20px;
+    margin-left: 85px;
+    border-radius: 5px;
+}
+.im{
+    background-image: url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
