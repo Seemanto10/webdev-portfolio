@@ -89,5 +89,5 @@ margin-left: 85px;
 .im{
     background-image: url(../images/header_bg.png);
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: bottom , right;
 }
