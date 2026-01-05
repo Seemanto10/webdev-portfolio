@@ -121,7 +121,13 @@ h2{
     display: flex;
     gap: 25px;
     padding: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 2px auto 3px black;
 }
 .img{
     margin-left: 75px;
+}
+main section{
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
