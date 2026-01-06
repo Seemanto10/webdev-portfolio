@@ -133,4 +133,9 @@ main section{
 }
 .resume{
     display: flex;
+    gap: 35px;
+}
+.pr{
+    margin: 0;
+    font-size: smaller;
 }
