@@ -124,3 +124,64 @@ background-size: cover;
 width: 1320px;
 height: 600px;
 }
+.hb2{
+    padding-left: 300px;
+    font-family: Inter;
+font-style: Semi Bold;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+
+
+
+}
+.hb3{
+    padding-left: 285px;
+    font-family: Inter;
+font-style: Semi Bold;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+.hb4{
+    padding-left: 270px;
+    font-family: Inter;
+font-style: Semi Bold;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+.button{
+    /* Frame 1 */
+width: 150px;
+height: 46px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 10;
+padding: 10px 22px 10px 22px;
+
+
+    border-radius: 8px;
+background: rgba(255, 0, 0, 1);
+}
+.btn{
+    /* align-items: center; */
+    /* justify-content: center; */
+    padding-left: 50%;
+}
+.SA3{
+    border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+}
