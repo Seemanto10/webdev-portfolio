@@ -38,3 +38,44 @@ line-height: 95px;
 letter-spacing: 0%;
 text-align: center;
 }
+.sh1{
+    color: rgba(255, 0, 0, 1);
+
+font-family: Inter;
+font-style: Bold;
+font-size: 88px;
+font-weight: 700;
+line-height: 106px;
+letter-spacing: 0%;
+text-align: center;
+}
+.par{
+    color: rgba(255, 0, 0, 1);
+
+font-family: Inter;
+font-style: Medium;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+.sh2{
+    color: rgba(7, 2, 17, 1);
+
+font-family: Inter;
+font-style: Bold;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+}
+.img{
+    width: 100%;
+    padding-left: 200px;
+}
+.sale1{
+    display: flex;
+    flex-direction: column;
+}
