@@ -11,6 +11,10 @@ background: linear-gradient(180.00deg, rgba(7, 2, 17, 1),rgba(7, 2, 17, 0) 100%)
 
  
 } 
+main{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
  .bancom{
     text-align: center;
     padding-top: 130px;
@@ -184,4 +188,53 @@ background: rgba(255, 0, 0, 1);
 .SA3{
     border-radius: 16px;
 background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+}
+.SA4{
+    display: flex;
+}
+.h5{
+    color: rgba(255, 0, 0, 1);
+
+font-family: Inter;
+font-style: Medium;
+font-size: 14px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0%;
+/* text-align: center; */
+padding-left: 100px;
+}
+.H44{
+    color: rgba(7, 2, 17, 1);
+
+font-family: Merriweather;
+font-style: Black;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+padding-left: 100px;
+}
+.pp1{
+    color: rgba(7, 2, 17, 0.6);
+
+font-family: Inter;
+font-style: Regular;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+padding-left: 100px;
+}
+.pic1{
+    gap: 10px;
+}
+.pic2{
+    box-sizing: border-box;
+border: 15px solid rgba(255, 0, 0, 1);
+margin: auto;
+background: url(friends-enjoying-rooftop-party);
 }
